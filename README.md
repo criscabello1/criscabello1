@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Monsterrat&size=28&duration=2000&pause=1000&color=22AFF7&center=true&vCenter=true&width=435&lines=Hi!+I'm+Crist%C3%B3bal+Cabello;Hola!+Soy+Crist%C3%B3bal+Cabello" alt="Typing SVG" />
 </p>
 <hr>
+<br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=criscabello1&layout=donut-vertical&theme=github_dark"/></p>
 
 **criscabello1/criscabello1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
