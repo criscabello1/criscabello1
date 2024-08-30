@@ -4,11 +4,7 @@
 <hr>
 <p><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/></p>
 <hr>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=criscabello1&layout=donut-vertical&theme=github_dark"/></p>
-
-**criscabello1/criscabello1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=criscabello1&layout=compact&theme=github_dark"/></p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
