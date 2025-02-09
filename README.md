@@ -12,5 +12,5 @@
 <hr>
 <br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=criscabello1&layout=compact&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=criscabello1&layout=compact"/>
 </p>
